@@ -49,3 +49,7 @@ footer{
 h2{
     text-align: center;
 }
+
+.product_thumbnail{
+    height:150px;
+}
