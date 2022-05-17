@@ -52,4 +52,34 @@ h2{
 
 .product_thumbnail{
     height:150px;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+.on_sale{
+    height: 50px;
+    position: absolute;
+    left: 1px;
+    top: 1px;
+}
+
+.product h5{
+    margin: 0px;
+    padding: 0px;
+}
+
+.on_sale {
+    height: 50px;
+    position: absolute;
+    left: 10px;
+    top: 1px;
+}
+
+.faded_background{
+    background-color: rgba(65, 230, 32, 0.289);
+    padding: 10px;
 }
